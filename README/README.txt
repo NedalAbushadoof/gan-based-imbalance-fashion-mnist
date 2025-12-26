@@ -53,7 +53,3 @@ for generating synthetic samples of a minority class and evaluate their impact o
 - WGAN-GP produces higher-quality synthetic samples
 - GAN-based augmentation improves minority class balance
 - Overall accuracy remains stable while class fairness improves
-
----
-
-## 📁 Repository Structure
